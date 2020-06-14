@@ -1,0 +1,56 @@
+div.myRowFile{
+    border-bottom:#ccc 1.7px solid;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+}
+// .conatiner-mainImage{
+//     // box-shadow: #ccc 0 0 5px 0  ;
+//     // border: #ccc 1px solid;
+// }
+
+div.myRowFile > div{
+
+    .imgContainer{
+        height: 300px;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        label.getImgMain{
+            height: 100%;
+            width: 100%;
+        }
+        img.imgMain{
+            // display: block;
+            // max-width: 80%;
+            // width: 80%;
+            height: 290.72px;
+        }
+    }
+
+    .container-input-file{
+
+        background-color: #ccc;
+    }
+    div.getMain{
+        height: 55px;
+    }
+}
+
+.getImgMain{
+    z-index: 2500;
+}
+
+.requirements{
+    h5{
+        font-weight: 400;
+        font-size: 15px;
+        // font-family: 'Roboto';
+        letter-spacing: 1.3px;
+        color: #005dc7;
+    }
+}
+

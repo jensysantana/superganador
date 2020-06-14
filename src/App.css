@@ -1,0 +1,13 @@
+/* * {
+    box-sizing: border-box;
+} */
+
+@font-face{
+    font-family: 'Roboto';
+    src: url('/Frontend/public/assets/fonts/Roboto/Roboto-Regular.ttf');
+}
+/* 
+@font-face{
+    font-family: 'Roboto';
+    src: url('/assets/fonts/Roboto/');
+} */

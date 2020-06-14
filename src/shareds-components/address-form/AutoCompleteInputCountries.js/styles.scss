@@ -1,0 +1,19 @@
+.container-country{
+    max-height: 300px;
+    overflow-y: auto;
+    .card{
+        margin-bottom: 5px;
+        cursor: pointer;
+    }
+
+    p{
+        margin-top: -8px;
+    }
+
+    .flag-icon{
+        background-size: contain;
+        background-position: 50%;
+        background-repeat: no-repeat;
+    }
+}
+

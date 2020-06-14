@@ -1,0 +1,10 @@
+sup{
+    color: rgb(196, 75, 75);
+    vertical-align: -3px;
+    font-size: 15px;
+    margin-left: 3px;
+  }
+  .error{
+    color: red;
+    margin: -15px 0 16px 2px;
+  }

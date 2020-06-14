@@ -1,0 +1,33 @@
+section.mymodal{
+    position: fixed;
+    left: 0;
+    top: 0;
+    // padding-top: -15px;
+    bottom: 0;
+    right: 0;
+    /* Black w/ opacity */
+    background-color: rgba(0,0,0,0.75); 
+    z-index: 9999;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: -22px;
+    right: -17px;
+    color: #ec0d0d;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover, .close:focus {
+    color: rgb(84, 216, 161);
+    text-decoration: none;
+    cursor: pointer;
+  }

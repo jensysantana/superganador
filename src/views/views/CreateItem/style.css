@@ -1,0 +1,25 @@
+/* .bgColor{
+    background-color: rgba(0, 9, 18, 0.4);
+}
+
+.containerTitle{
+    padding-top: 5px;
+} */
+
+.containe-image-file > input{
+    border: 1.2px solid #cccccc;
+    height: 550px;
+}
+.label-hided-file{
+    display: block;
+}
+.input-file-hide{
+    display: none;
+    background-color: salmon;
+}
+.subTotal{
+    background-color: #000 !important;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: large;
+}
