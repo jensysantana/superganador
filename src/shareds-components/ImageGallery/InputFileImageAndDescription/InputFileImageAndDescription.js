@@ -112,7 +112,7 @@ const InputFileImageAndDescription = (stateProps)=>{
               <li>Images must not execeed 10,000 pixels on he longest side.</li>
               <li>JPEG is the preferred imade format, but you also may use JPG, PNG,</li>
           </ul>
-
+                      <h2>DELETE THIS H2</h2>
         </div>
       </div> 
     )
